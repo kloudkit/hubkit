@@ -1,0 +1,12 @@
+{
+  "name": "hubkit",
+  "owner": {
+    "name": "KloudKIT",
+    "url": "https://github.com/kloudkit"
+  },
+  "metadata": {
+    "description": "Kit for your agents",
+    "version": "0.0.0"
+  },
+  "plugins": []
+}
